@@ -4,8 +4,6 @@ Marketing Strategy Plan (MSP) for Island Home featuring SWOT/TOWS analysis, Port
 # Marketing Strategy Plan for Island Home
 
 ## Executive Summary & Overview
-This report provides a formal marketing strategy plan to solve real-world growth and positioning challenges for **Island Home**. Managed by Michele Senanayake and Charith Senanayake since 2004, Island Home operates from a commercial kitchen in Carlton, Victoria, specializing in authentic Sri Lankan cuisine prepared with healthy low-GI rice and packaged in 100% plastic-free, home-compostable banana leaf wrapping.
-
 This report will be divided into several parts:
 * The situation analysis is vital to the marketing planning process as it provides the back-bone analysis that supports the marketing decision-making process.
 * The report will explain the stakeholder analysis that involves identifying relevant factors, like investors, employees, customers, and many more, to understand the client’s behaviour, intentions, agendas, interests, and the influence or resources students have brought on decision-making processes.
