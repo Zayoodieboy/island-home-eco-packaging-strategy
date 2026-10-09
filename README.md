@@ -1,10 +1,10 @@
 # island-home-eco-packaging-strategy
 Marketing Strategy Plan (MSP) for Island Home featuring SWOT/TOWS analysis, Porter's 5 Forces, market positioning, and a Visily wireframe model for plastic-free, home-compostable banana leaf packaging.
 
-Marketing Strategy Plan for Island Home
+# Marketing Strategy Plan for Island Home
 
-## Introduction
-This report aims for each group of marketing students to develop a formal marketing plan to resolve a real-world marketing problem.
+## Executive Summary & Overview
+This report provides a formal marketing strategy plan to solve real-world growth and positioning challenges for **Island Home**. Managed by Michele Senanayake and Charith Senanayake since 2004, Island Home operates from a commercial kitchen in Carlton, Victoria, specializing in authentic Sri Lankan cuisine prepared with healthy low-GI rice and packaged in 100% plastic-free, home-compostable banana leaf wrapping.
 
 This report will be divided into several parts:
 * The situation analysis is vital to the marketing planning process as it provides the back-bone analysis that supports the marketing decision-making process.
