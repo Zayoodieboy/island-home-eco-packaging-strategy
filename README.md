@@ -1,7 +1,7 @@
 # island-home-eco-packaging-strategy
 Marketing Strategy Plan (MSP) for Island Home featuring SWOT/TOWS analysis, Porter's 5 Forces, market positioning, and a Visily wireframe model for plastic-free, home-compostable banana leaf packaging.
 
-# Assignment 2 – MSP
+Marketing Strategy Plan for Island Home
 
 ## Introduction
 This report aims for each group of marketing students to develop a formal marketing plan to resolve a real-world marketing problem.
