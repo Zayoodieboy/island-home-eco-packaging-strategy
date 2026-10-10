@@ -43,24 +43,24 @@ Below are the product packaging wireframes and visual mockups built in Visily, i
 
 #### 🏢 Internal Analysis
 
-##### Strengths:
+##### 💪Strengths:
 * **Agile:** One of the great strengths of Island Home is that they are agile. For example, Vivify (2019) suggested that being agile allows food production teams like Island home to adapt and market changes quickly and, at the same time, it enables the organization to have adjustable project management strategies. Therefore, being agile allows team members to interact and cooperate in multiple ways.
 * **New And Innovative Product:** Product innovation in the food industry is important because the operators in the food preparation sector can create new spaces in a seemingly crowded market, emphasised by Ghelber (2019). Innovation in the food industry is usually the combination of social and cultural innovation and that’s what Island Home is known for.
 * **Local Supplier Chain:** Since Island Home localizes its supply chain, that means it can represent excellent advantages for the environment. Team Thomas (2020) implied that the food production sector contributes to green manufacturing when sourcing locally but, it also helps build consumer confidence. Furthermore, the blog (2020) also mentions that food organizations that source locally leads to easy and faster communication.
 * **Healthy Food Quality:** Island Home has good food quality, and their food product is made up of vegan and natural food, which helps maintain healthy body weight. Queensland Health (2019) stated, “when a customer follows a healthy eating pattern could be linked with better stress management, improved sleep quality, and in general better mental wellbeing.
 
-##### Weaknesses:
+##### ⚠️Weaknesses:
 * **Low capitalization:** Small caps tend to be more voile and riskier investments. Ross (2021) implied that when a firm has low capitalization, that means they have less access to capital and do not have many financial resources.
 
-#### External Analysis
+#### 🌍External Analysis
 
-##### Opportunities:
+##### 🌱Opportunities:
 * **Environmentally appropriate and responsive:** Since Island Home is known to be environmentally appropriate and responsive, that means they use specific packaging techniques that would help protect the environment. Being environmentally relevant and responsive plays a significant role in developing prepared meal production and it is known to be ecologically beneficial towards the food industry, suggested by Lockie (2006, p.191).
 * **Exotic cuisine with little market saturation:** Usually, when a business has little market saturation, the company faces intense competition in the food industry. Cloutman (2021, p.30) stated that “the competition in the prepared meal production industry is high and has risen over the past several years in Australia.” Moreover, Island Home is a Sri Lakin cuisine, meaning this could make customers widen their boundaries. Food VacBags (2020) suggested that it could lead customers to eat fresher, introduce them to different cultures, and add more nutrients to their diet.
 * **Plastic free:** Island Home uses plastic-free packaging, as in they use banana leaves as their food packaging. One of the main benefits of using environmentally friendly packaging is that it reduces the amount of waste sent to landfills, pointed by Thomas (2015). Furthermore, the author (2015) indicated that when a food production business switches to non-plastic packaging for their meal package, the company will save a significant amount of income in the long run.
 * **Home Delivered Healthy Meals:** When customers order meals at home from a local business, that means they are encouraging job creation. In addition, home delivery meals demonstrate great creativity and the desire to please their customers and offer quality menus and fresh, first-rate products, as indicated by Beurre et Baguette (2021). Moreover, Robinson, Segal, and Segal (2020) mention that getting home delivery healthy meals could support customers’ immune systems and reduce the risk of illnesses like heart disease, high blood pressure, and diabetes.
 
-##### Threats:
+##### 🚨Threats:
 * **Potential for competition to arise by more mature well-known operators:** The threat level in of existing rivalry among competitors is relatively high. Cloutman (2021, p.17) stated that "the competition on private-label ready-made production sector is assumed to place further pressure on the food industry, which the operators in this food sector are struggling against cheaper and increasingly higher quality private-label products from the supermarkets."
 * **Pandemic buying is erratic:** When the pandemic happened, the food supply chain needed to adjust their consideration quickly to consumers' panic buying and changes in food purchasing patterns, as implied by Hobbs (2020, p.171). Furthermore, Hobbs (2020, p.172) pointed out that even though the government worldwide increased their social distancing policies, most customers had engaged in stockpiling behaviour due to the restrictions' strict rules and regulations.
 
