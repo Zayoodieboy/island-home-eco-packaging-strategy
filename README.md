@@ -1,6 +1,6 @@
-# Assignment 2 – MSP
+# 🍃 Marketing Strategy Plan for Island Home
 
-## Introduction
+## 📌 Introduction
 This report aims for each group of marketing students to develop a formal marketing plan to resolve a real-world marketing problem.
 
 This report will be divided into several parts:
@@ -14,34 +14,34 @@ The client in this report is Island Home. Michele Senanayake and Charith Senanay
 
 ---
 
-## Visual Packaging Representation (Visily Mockup Model)
+## 🎨 Visual Packaging Representation (Visily Mockup Model)
 
 Below are the product packaging wireframes and visual mockups built in Visily, illustrating the plastic-free home compostable banana leaf wrapping model for Island Home:
 
 *(Insert your Visily Mockup images/screenshots below)*
 
-| Visily Mockup 1: Banana Leaf Package Model | Visily Mockup 2: Sri Lankan Ready-Made Meal |
+| 📦 Visily Mockup 1: Banana Leaf Package Model | 🍛 Visily Mockup 2: Sri Lankan Ready-Made Meal |
 | :---: | :---: |
 | ![Banana Leaf Package Mockup](https://via.placeholder.com/500x300.png?text=Visily+Banana+Leaf+Package+Model) | ![Ready-Made Meal Mockup](https://via.placeholder.com/500x300.png?text=Visily+Meal+Packaging+Mockup) |
 
 ---
 
-## Situation Analysis
+## 📈 Situation Analysis
 
-### SWOT Analysis
+### 🔍 SWOT Analysis
 
 | Internal / External | Factors |
 | :--- | :--- |
-| **Strengths** | • **Agile:** Agile project management strategies allow food production teams like Island Home to adapt and market changes quickly.<br>• **New And Innovative Product:** Product innovation combines social and cultural innovation, creating new spaces in a crowded market.<br>• **Local Supplier Chain:** Localizing the supply chain leads to green manufacturing, builds consumer confidence, and enables faster communication.<br>• **Healthy Food Quality:** Vegan and natural food quality made with healthy low-GI rice supporting overall customer wellbeing. |
-| **Weaknesses** | • **Low Capitalization:** Small caps tend to be more volatile and riskier, giving the firm less access to capital and restricted financial resources. |
-| **Opportunities** | • **Environmentally Appropriate and Responsive:** Utilizing eco-friendly packaging techniques that protect the environment and benefit the food industry.<br>• **Exotic Cuisine with Little Market Saturation:** Sri Lankan cuisine encourages customers to widen their boundaries, introducing them to unique cultures and fresh nutrients.<br>• **Plastic Free:** Banana leaf packaging reduces landfill waste and saves significant income in the long run.<br>• **Home Delivered Healthy Meals:** Home delivery encourages local job creation, supports consumer immune systems, and offers quality menus. |
-| **Threats** | • **Potential Competition from Well-Known Operators:** High existing rivalry with cheap, high-quality private-label ready-made meals from major supermarkets.<br>• **Erratic Pandemic Buying:** Consumer stockpiling behavior and panic buying created unexpected supply chain and purchasing pattern shifts. |
+| **💪 Strengths** | • **Agile:** Agile project management strategies allow food production teams like Island Home to adapt and market changes quickly.<br>• **New And Innovative Product:** Product innovation combines social and cultural innovation, creating new spaces in a crowded market.<br>• **Local Supplier Chain:** Localizing the supply chain leads to green manufacturing, builds consumer confidence, and enables faster communication.<br>• **Healthy Food Quality:** Vegan and natural food quality made with healthy low-GI rice supporting overall customer wellbeing. |
+| **⚠️ Weaknesses** | • **Low Capitalization:** Small caps tend to be more volatile and riskier, giving the firm less access to capital and restricted financial resources. |
+| ** 🌱 Opportunities** | • **Environmentally Appropriate and Responsive:** Utilizing eco-friendly packaging techniques that protect the environment and benefit the food industry.<br>• **Exotic Cuisine with Little Market Saturation:** Sri Lankan cuisine encourages customers to widen their boundaries, introducing them to unique cultures and fresh nutrients.<br>• **Plastic Free:** Banana leaf packaging reduces landfill waste and saves significant income in the long run.<br>• **Home Delivered Healthy Meals:** Home delivery encourages local job creation, supports consumer immune systems, and offers quality menus. |
+| ** 🚨 Threats** | • **Potential Competition from Well-Known Operators:** High existing rivalry with cheap, high-quality private-label ready-made meals from major supermarkets.<br>• **Erratic Pandemic Buying:** Consumer stockpiling behavior and panic buying created unexpected supply chain and purchasing pattern shifts. |
 
 ---
 
-### Detailed SWOT Text Breakdown
+### 📝 Detailed SWOT Text Breakdown
 
-#### Internal Analysis
+#### 🏢 Internal Analysis
 
 ##### Strengths:
 * **Agile:** One of the great strengths of Island Home is that they are agile. For example, Vivify (2019) suggested that being agile allows food production teams like Island home to adapt and market changes quickly and, at the same time, it enables the organization to have adjustable project management strategies. Therefore, being agile allows team members to interact and cooperate in multiple ways.
@@ -66,7 +66,7 @@ Below are the product packaging wireframes and visual mockups built in Visily, i
 
 ---
 
-### TWOS Matrix Table
+### 🧩 TWOS Matrix Table
 
 | TWOS Matrix | Strengths (S) | Weakness (W) |
 | :--- | :--- | :--- |
@@ -76,29 +76,29 @@ Below are the product packaging wireframes and visual mockups built in Visily, i
 
 ---
 
-### TWOS Analysis Summary
+### 💡 TWOS Analysis Summary
 
 The TWOS Analysis table indicates strategies for strengths & opportunities, strengths & weaknesses, strengths & threats, and weaknesses & threats. Each of these strategies could help Island Home with its threats and weakness and at the same time help to gain some benefits to improve their business. For example, in weaknesses & opportunities strategies, a strategy that would be helpful to their low capitalization and help be eco-friendly and plastic-free would be focusing on their stock control. If Island Home controls its inventory more, it would be one of the good ways that could help streamline their business during the lockdown and improve their cash flow. Another example, for threats & weakness strategies, a strategy that would be beneficial towards low capitalization and panic buying and potential rising of existing competitors would be Island Home to launch a crowdfunding campaign. However, this type of example has been highlighted because it is known to be a long-term strategy. Nonetheless, when Island Home pitches its business through other social media platforms like Tiktok, Twitter, YouTube, it can be known as a valuable form of digital marketing strategy. In addition, this strategy would help the organization gain many attentions in multiple media platform.
 
 ---
 
-## Problem & Opportunity Statement
+## 🎯 Problem & Opportunity Statement
 
 Island Home has huge critical success factors of internal and external environmental analysis in the SWOT and PESTLE analysis. However, there are issues that Island Home is facing. In the SWOT analysis table, the problems are potential existing competitors from the food sector and panic buying. Furthermore, the SWOT analysis table explains how these factors are problems to Island Home. While in the PESTLE analysis table, their main issues would be in the political and technological section. The PESTLE analysis table indicates how they would be a significant threat to Island Home due to how high the threat level is in one of the political and technological impacts of factor. Nonetheless, Island Home has opportunities. The opportunities could solve the issue that they are facing and help achieve its organization’s mission. Their mission is to encourage and inspire their target customers to cook by themselves, compost, reduce their plastic waste, offset their energy use, and reduce food miles.
 
 ---
 
-## Porter’s 5 Forces
+## 🥊 Porter’s 5 Forces
 
 | Element | Threat Level | Explanation |
 | :--- | :---: | :--- |
-| **Threat of New Entrants** | **High** | Adamkasi (2017) stated that “the threat level of entry of new entrants is extremely high in the food production sector” |
-| **Threat of Substitute Products or Services** | **High** | Most of the target customers in the food production sector tend to eat fast food meals from a non-organic company, implied by Cloutman (2021, p.31) |
-| **Bargaining Power of Buyers** | **High** | If target customers are price conscious and well educated about the product, then the bargaining power is high, The Strategic CFO (2021) |
-| **Bargaining Power of Suppliers** | **Low** | Suppose that there significant amount of suppliers in the food production industry. In that case, switching costs are high for suppliers, pointed out by Corporate Financial Institute (2021) |
-| **Existing Rivalry Among Competitors** | **Increasing and High** | Cloutman (2021, p.30) stated that “the competition in the prepared meal production industry is high and has risen over the past several years in Australia” |
+| **🚨 Threat of New Entrants** | **High** | Adamkasi (2017) stated that “the threat level of entry of new entrants is extremely high in the food production sector” |
+| **🔄 Threat of Substitute Products or Services** | **High** | Most of the target customers in the food production sector tend to eat fast food meals from a non-organic company, implied by Cloutman (2021, p.31) |
+| **🛒 Bargaining Power of Buyers** | **High** | If target customers are price conscious and well educated about the product, then the bargaining power is high, The Strategic CFO (2021) |
+| **🌾Bargaining Power of Suppliers** | **Low** | Suppose that there significant amount of suppliers in the food production industry. In that case, switching costs are high for suppliers, pointed out by Corporate Financial Institute (2021) |
+| **⚡Existing Rivalry Among Competitors** | **Increasing and High** | Cloutman (2021, p.30) stated that “the competition in the prepared meal production industry is high and has risen over the past several years in Australia” |
 
-### Detailed Porter's 5 Forces Analysis
+### 🔬 Detailed Porter's 5 Forces Analysis
 
 * **Threats of New Entrants:** the threat level is high. Adamkasi (2017) affirmed that it is cheaper to start a food production business than any other type of business and how individuals can easily acquire their funds compared to starting any other type of business.
 * **Threat of Substitute Products or Services:** the threat level is high. Garcia (2014, p.14) indicated that most of the target customers in the organic food preparation industry are constantly eating fast food meals. Statista Research Department (2021) analysed that 43.73% of respondents in Australia say that they eat fast food once per week.
@@ -108,7 +108,7 @@ Island Home has huge critical success factors of internal and external environme
 
 ---
 
-## References
+## 📚 References
 
 * Cloutman, N 2021, Prepared Meals Production in Australia, IBISWorld, OD5478
 * Vivify 2019, ‘Agile Project Management in Manufacturing – Coming the Full Circle’, Vivify, April 22, viewed September 24, 2021, `<https://www.vivifyscrum.com/insights/agile-project-management-in-manufacturing>`
