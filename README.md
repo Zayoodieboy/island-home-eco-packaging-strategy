@@ -22,7 +22,7 @@ Below are the product packaging wireframes and visual mockups built in Visily, i
 
 | 📦 Visily Mockup 1: Banana Leaf Package Model | 🍛 Visily Mockup 2: Sri Lankan Ready-Made Meal |
 | :---: | :---: |
-| ![Banana Leaf Package Mockup](https://via.placeholder.com/500x300.png?text=Visily+Banana+Leaf+Package+Model) | ![Ready-Made Meal Mockup](https://via.placeholder.com/500x300.png?text=Visily+Meal+Packaging+Mockup) |
+| ![Banana Leaf Package Mockup](<img width="806" height="599" alt="Screenshot 2026-10-10 144530" src="https://github.com/user-attachments/assets/3dcb01b7-bf91-4d9c-8949-0768f0b6410c" />) | ![Ready-Made Meal Mockup](<img width="807" height="320" alt="Screenshot 2026-10-10 144543" src="https://github.com/user-attachments/assets/afa2ee8f-c36a-4b8c-b644-9a8ccb2afe77" />) |
 
 ---
 
